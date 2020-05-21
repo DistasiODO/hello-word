@@ -1,2 +1,2 @@
-# hello-world
+# hello-word
 Мой первый выход
